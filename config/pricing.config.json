@@ -1,0 +1,11 @@
+{
+  "veo": {
+    "quality": { "audio": 0.60, "mute": 0.50 },
+    "fast":    { "audio": 0.25, "mute": 0.20 }
+  },
+  "fal": {
+    "pika": { "per_second": 0.20 },
+    "luma": { "per_second": 0.24 }
+  },
+  "fees": { "egress_per_gb": 0.08 }
+}
